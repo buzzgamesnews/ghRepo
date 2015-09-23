@@ -10,6 +10,7 @@ namespace ghConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.ReadKey();
         }
     }
 }

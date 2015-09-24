@@ -11,9 +11,14 @@ namespace ghConsoleApp
         static void Main(string[] args)
         {
             Console.WriteLine("Change master branch");
-            Console.WriteLine("goodBuy");
+            GoodBuy();
 
             Console.ReadKey();
+        }
+
+        static void GoodBuy()
+        {
+            Console.WriteLine("goodBuy");
         }
     }
 }

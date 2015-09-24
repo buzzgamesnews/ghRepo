@@ -10,6 +10,8 @@ namespace ghConsoleApp
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Change master branch");
+
             Console.ReadKey();
         }
     }

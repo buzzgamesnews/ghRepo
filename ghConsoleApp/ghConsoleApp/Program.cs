@@ -13,8 +13,8 @@ namespace ghConsoleApp
             Console.WriteLine("Change master branch!");
             GoodBuy();
 
-            Console.Write("123");
-            Console.Write("321");
+            Console.Write("123-321");
+            Console.Write("321-123");
 
             Console.ReadKey();
         }

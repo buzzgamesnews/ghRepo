@@ -16,6 +16,10 @@ namespace ghConsoleApp
             Console.Write("This is test branch");
 
 
+            Console.Write("123---asd");
+            Console.Write("321===asd");
+
+
             Console.ReadKey();
         }
 

@@ -10,7 +10,7 @@ namespace ghConsoleApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Change master branch");
+            Console.WriteLine("Change master branch!");
             GoodBuy();
 
             Console.Write("123");
@@ -21,7 +21,7 @@ namespace ghConsoleApp
 
         static void GoodBuy()
         {
-            Console.WriteLine("goodBuy");
+            Console.WriteLine("goodBuy!");
         }
     }
 }

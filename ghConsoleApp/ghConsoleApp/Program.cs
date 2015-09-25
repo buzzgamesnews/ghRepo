@@ -13,8 +13,8 @@ namespace ghConsoleApp
             Console.WriteLine("Change master branch!");
             GoodBuy();
 
-            Console.Write("123---asd");
-            Console.Write("321===asd");
+            Console.Write("This is test branch");
+
 
             Console.ReadKey();
         }

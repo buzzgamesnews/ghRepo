@@ -14,7 +14,7 @@ namespace ghConsoleApp
             GoodBuy();
 
             Console.Write("123");
-
+            Console.Write("321");
 
             Console.ReadKey();
         }

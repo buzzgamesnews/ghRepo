@@ -13,13 +13,11 @@ namespace ghConsoleApp
             Console.WriteLine("Change master branch!");
             GoodBuy();
 
-<<<<<<< HEAD
             Console.Write("This is test branch");
 
-=======
             Console.Write("123---asd");
             Console.Write("321===asd");
->>>>>>> 3fdc1ef... Merge branch 'Feature/Conflict'
+
 
             Console.ReadKey();
         }
